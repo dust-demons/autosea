@@ -1,4 +1,4 @@
-# autosea
+# Autosea
 An automation desktop app to help you finish your routine.
 
 stand alone/source code
