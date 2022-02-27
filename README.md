@@ -1,4 +1,4 @@
-# Autosea - Desktop Automation app
+# Autosea - Desktop Automation app (桌面自動點擊可自訂腳本機器人 - for windows)
 An automation desktop app to help you finish your routine.  
   
 *stand alone/source code*  
