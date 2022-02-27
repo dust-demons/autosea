@@ -1,7 +1,7 @@
 # Autosea - Desktop Automation app
 An automation desktop app to help you finish your routine.  
   
-stand alone/source code  
+*stand alone/source code  
 *with documentation*  
 *for windows*  
 *bug fix guarantee for 1week*  
